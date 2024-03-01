@@ -1,0 +1,50 @@
+.search-wrapper {
+  position: relative;
+}
+
+.search-icon {
+  color: rgb(0, 0, 0);
+  position: absolute;
+  top: 50%;
+  left: 8px; /* Adjust the left position as needed */
+  transform: translateY(-50%);
+  z-index: 1;
+}
+
+.search-input {
+  background-color: white;
+  padding-left: 30px; /* Adjust the padding left to make space for the icon */
+}
+
+.bt {
+  border-radius: 10px;
+  padding: 5px 10px;
+  background-color: #fff;
+  color: #4b5665;
+}
+.link {
+  color: #727d87;
+  font-size: 14px;
+}
+span {
+  color: #4b5665;
+}
+span i {
+  color: #5b5d5f;
+}
+.card {
+  background-color: #fff;
+}
+.card-img {
+  width: 141px;
+  height: 103px;
+}
+.rectangle {
+  background-color: #f3f9ff;
+  width: 8vw;
+  border-radius: 0px 0px 12px 12px;
+  position: relative;
+  top: -48px;
+}
+
+

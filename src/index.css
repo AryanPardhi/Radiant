@@ -1,0 +1,9 @@
+/* index.css */
+
+@media (max-width: 800px) {
+    .card {
+      flex-direction: column;
+      /* background-color: red; */
+    }
+  }
+  
